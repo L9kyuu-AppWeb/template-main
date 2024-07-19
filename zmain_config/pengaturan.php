@@ -1,7 +1,7 @@
 <?php
 @session_start();
 // Untuk Koneksi
-$domain = "template_main.test";
+$domain = "template-main.test";
 include 'api/route.php';
 
 // Link untuk tampilan
